@@ -19,3 +19,7 @@ a {
 nav {
   text-align: center
 }
+#featured-property {
+  text-align: center;
+  font-size: 8px
+}
